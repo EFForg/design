@@ -24,7 +24,7 @@ Please [open an issue](https://github.com/EFForg/design/issues) on this reposito
 
 We have a few resources to help you develop better interfaces for our projects. You will notice some of these are not implemented in the product yet, but we're working towards a unified style and we hope you help us out!
 
-* Our product style guide
+* [Our product style guide](https://github.com/EFForg/design/blob/master/styleguide.md) __IMPORTANT!__
 * Logos
 * Fonts
 * UI code fragments and examples
