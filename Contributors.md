@@ -1,6 +1,6 @@
 # Contributors Guide
 
-Hello! Thank you for your interest in contributing to our Open Source projects. 
+Hello! Thank you for your interest in contributing to EFF's Open Source projects. 
 We want to make sure you have all the information you need to make design decisions and craft a useful interface for our websites and extensions.
 
 ## How to contribute
@@ -12,7 +12,11 @@ Most of our contributors work directly on improving the UI and functionality of 
   * Certbot
   * STARTTLS Everywhere
  
-If you want to contribute with other EFF products or websites, we don't have specific guidelines for you right now, but we'll be developing those in the future.  Please file an issue on this repository if there's anything you'd like to see that is not covered here.
+If you want to contribute with other EFF products or websites, we don't have specific guidelines for you right now, but we'll be developing those in the future.  
+
+If you're looking for EFF's logos and brand guidelines, they're at [https://www.eff.org/press/logos](https://www.eff.org/press/logos)
+
+Please file an issue on this repository if there's anything you'd like to see that is not covered here.
 
 ## Resources (style guide and files)
 
@@ -31,8 +35,10 @@ Here's a few issues where design contributors are needed:
 
 ## What to expect
 
-
-
+When your contribution to a project involves a significant UI change, the project maintainers will often ask the EFF design team for input and feedback.
+* It often takes us ~about a week~ to work on the issue and provide feedback. This can be much faster if your design is already using our guidelines!
+* If your design needs changes and/or we have suggestions, we will comment on your pull request (we'll be very nice!).
+* If you have more general questions or a research proposal, please open an issue on this repo.
 
 ## What we're *not* looking for
 
