@@ -7,58 +7,58 @@ This page includes downloadable assets for our projects. If you have questions o
 The Electronic Frontier Foundation logo, full variations, and logo usage guidelines are included in our [press kit](https://www.eff.org/press/logos).
 
 ### EFF lockup
-<img src="eff-logo-lockup-red.png" alt="Electronic Frontier Foundation lockup" width="400"/>
-<img src="eff-logo-lockup-red.svg" alt="Electronic Frontier Foundation lockup" width="400"/>
+PNG:<img src="eff-logo-lockup-red.png" alt="Electronic Frontier Foundation lockup" width="400"/>
+SVG:<img src="eff-logo-lockup-red.svg" alt="Electronic Frontier Foundation lockup" width="400"/>
 
 ### EFF monogram
-<img src="eff-logo-monogram-red.png" alt="Electronic Frontier Foundation monogram" width="400"/>
-<img src="eff-logo-monogram-red.svg" alt="Electronic Frontier Foundation monogram" width="400"/>
+PNG:<img src="eff-logo-monogram-red.png" alt="Electronic Frontier Foundation monogram" width="400"/>
+SVG:<img src="eff-logo-monogram-red.svg" alt="Electronic Frontier Foundation monogram" width="400"/>
 For more design considerations for our logo, please refer to our [style guide](/styeguide).
 
 ## Certbot
 EFF's [Certbot](certbot.eff.org) is a free, open source command line tool for automatically using Let’s Encrypt certificates on manually-administrated websites to enable HTTPS.
 
 ### Certbot lockup
-<img src="eff-certbot-lockup.png" alt="Certbot lockup" width="400"/>
-<img src="eff-certbot-lockup.svg" alt="Certbot lockup" width="400"/>
+PNG:<img src="eff-certbot-lockup.png" alt="Certbot lockup" width="400"/>
+SVG:<img src="eff-certbot-lockup.svg" alt="Certbot lockup" width="400"/>
 
 ### Certbot monogram
-<img src="eff-certbot-monogram.png" alt="Certbot monogram" width="400"/>
-<img src="eff-certbot-monogram.svg" alt="Certbot monogram" width="400"/>
+PNG:<img src="eff-certbot-monogram.png" alt="Certbot monogram" width="400"/>
+SVG:<img src="eff-certbot-monogram.svg" alt="Certbot monogram" width="400"/>
 
 ## HTTPS Everywhere
 EFF's [HTTPS Everywhere](eff.org/https-everywhere), a free, open source browser extension that encrypts your communications with many major websites, making your browsing more secure.
 
 ### HTTPS Everywhere lockup
-<img src="eff-https-everywhere-lockup.png" alt="HTTPS Everywhere lockup" width="400"/>
-<img src="eff-https-everywhere-lockup.svg" alt="HTTPS Everywhere lockup" width="400"/>
+PNG:<img src="eff-https-everywhere-lockup.png" alt="HTTPS Everywhere lockup" width="400"/>
+SVG:<img src="eff-https-everywhere-lockup.svg" alt="HTTPS Everywhere lockup" width="400"/>
 
 ### HTTPS Everywhere monogram
-<img src="eff-httpseverywhere-monogram.png" alt="HTTPS Everywhere monogram" width="400"/>
-<img src="eff-httpseverywhere-monogram.svg" alt="HTTPS Everywhere monogram" width="400"/>
+PNG:<img src="eff-httpseverywhere-monogram.png" alt="HTTPS Everywhere monogram" width="400"/>
+SVG:<img src="eff-httpseverywhere-monogram.svg" alt="HTTPS Everywhere monogram" width="400"/>
 
 ## Privacy Badger
 EFF's [Privacy Badger](eff.org/privacybadger), a free, open source browser extension that stops third party trackers from gathering information about who you are and what you're doing online.
 
 ### Privacy Badger lockup
-<img src="eff-privacybadger-lockup.png" alt="Privacy Badger lockup" width="400"/>
-<img src="eff-privacybadger-lockup.svg" alt="Privacy Badger lockup" width="400"/>
+PNG:<img src="eff-privacybadger-lockup.png" alt="Privacy Badger lockup" width="400"/>
+SVG:<img src="eff-privacybadger-lockup.svg" alt="Privacy Badger lockup" width="400"/>
 
 ### Privacy Badger monogram
-<img src="eff-privacybadger-monogram.png" alt="Privacy Badger monogram" width="400"/>
-<img src="eff-privacybadger-monogram.svg" alt="Privacy Badger monogram" width="400"/>
+PNG:<img src="eff-privacybadger-monogram.png" alt="Privacy Badger monogram" width="400"/>
+SVG:<img src="eff-privacybadger-monogram.svg" alt="Privacy Badger monogram" width="400"/>
 
 ## StartTLS Everywhere
 EFF's [StartTLS Everywhere](starttls-everywhere.org) is a free, open source project to make email delivery more secure.
 
 ### StartTLS Everywhere lockup
-<img src="eff-starttlseverywhere-lockup.png" alt="StartTLS Everywhere lockup" width="400"/>
-<img src="eff-starttlseverywhere-lockup.svg" alt="StartTLS Everywhere lockup" width="400"/>
+PNG:<img src="eff-starttlseverywhere-lockup.png" alt="StartTLS Everywhere lockup" width="400"/>
+SVG:<img src="eff-starttlseverywhere-lockup.svg" alt="StartTLS Everywhere lockup" width="400"/>
 
 ### StartTLS Everywhere monogram
-<img src="eff-starttlseverywhere-monogram.png" alt="StartTLS Everywhere monogram" width="400"/>
-<img src="eff-starttlseverywhere-monogram.svg" alt="StartTLS Everywhere monogram" width="400"/>
+PNG:<img src="eff-starttlseverywhere-monogram.png" alt="StartTLS Everywhere monogram" width="400"/>
+SVG:<img src="eff-starttlseverywhere-monogram.svg" alt="StartTLS Everywhere monogram" width="400"/>
 
 ### StartTLS Everywhere icon
-<img src="eff-starttlseverywhere-icon.png" alt="StartTLS Everywhere icon" width="400"/>
-<img src="eff-starttlseverywhere-icon.svg" alt="StartTLS Everywhere icon" width="400"/>
+PNG:<img src="eff-starttlseverywhere-icon.png" alt="StartTLS Everywhere icon" width="400"/>
+SVG:<img src="eff-starttlseverywhere-icon.svg" alt="StartTLS Everywhere icon" width="400"/>
