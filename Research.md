@@ -34,6 +34,16 @@ What are you trying to accomplish with your test? What specific features or flow
 
 ### Build a survey
 ### Build a script
+After you identify the goal(s) of your user test, identify a specific task for your tester to carry out. Once you know the task, you can build a script for the test. Your script should:
+
+* Thank the user
+* Introduce yourself and the project
+* Preview the task and what the user can expect
+* The task(s) *with a reminder to users that they should think aloud while carrying out the assigned task!
+* Both open-ended and Y/N questions
+
+Here are some tips for [writing a script](https://medium.com/user-research/user-research-basics-creating-a-test-and-script-bef65496292c) and an [example script](https://www.dropbox.com/s/ome4sshecjs87t6/User%20Testing%20Script%20-%20Example.docx?dl=0) for inspiration.
+
 ### Create a paper prototype
 ### Observe a user interact with a device
 ### Format your feedback and conclusions
