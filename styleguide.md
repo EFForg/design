@@ -35,3 +35,6 @@ Note: In some cases, the Google font page is linked to. However, we host the fon
 For most purposes, we use an open source typyeface called [Montserrat](https://fonts.google.com/specimen/Montserrat). It has several weights, italics, and many special characters. Headings should be rendered in Montserrat bold. Body type should be rendered in Montserrat regular or Montserrat light.
 
 Other typefaces we commonly use are: [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic) (used in our logo), [Meriweather](https://fonts.google.com/specimen/Merriweather) (used for body type on our main website), [Chunk Five](https://www.fontsquirrel.com/fonts/chunkfive) (used for Privacy Badger), and [Lato](https://fonts.google.com/specimen/Lato) (used for one-pagers and other communications).
+
+## PROJECT LOGOS
+EFF has a small ecosystem of websites and browser extensions that have standalone branding. [You can find the files here] (https://github.com/EFForg/design/blob/master/logos/logos.md). 
