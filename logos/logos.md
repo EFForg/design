@@ -44,10 +44,10 @@ EFF's [HTTPS Everywhere](eff.org/https-everywhere), a free, open source browser 
 
 ### HTTPS Everywhere lockup
 PNG:
-<img src="eff-https-everywhere-lockup.png" alt="HTTPS Everywhere lockup" width="200"/>
+<img src="eff-httpseverywhere-lockup.png" alt="HTTPS Everywhere lockup" width="200"/>
 
 SVG:
-<img src="eff-https-everywhere-lockup.svg" alt="HTTPS Everywhere lockup" width="200"/>
+<img src="eff-httpseverywhere-lockup.svg" alt="HTTPS Everywhere lockup" width="200"/>
 
 ### HTTPS Everywhere monogram
 PNG:
