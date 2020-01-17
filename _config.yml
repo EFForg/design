@@ -9,3 +9,5 @@ include:
   - Research.md
   - styleguide.md
   - logos.md
+
+theme: jekyll-theme-minimal
