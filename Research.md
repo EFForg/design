@@ -1,6 +1,6 @@
 # Research Guide
 ## So you want to do research
-EFF’s design team routinely incorporates usability and user tests into its process when developing standalone websites and extensions. The extensions we work on are iterative, but often EFF's design team is often short on resources to user test everything we want. If you're interested in supporting our team in user testing our extensions, we'd love to collaborate.
+EFF’s design team routinely incorporates usability and user tests into its process when developing standalone websites and extensions. Often EFF's design team is short on resources to user test everything we want. If you're interested in supporting our team in user testing our extensions, we'd love to collaborate.
 
 ## Considerations and Constraints
 ### Privacy
