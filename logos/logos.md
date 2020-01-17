@@ -20,7 +20,7 @@ PNG:
 SVG:
 <img src="eff-logo-monogram-red.svg" alt="Electronic Frontier Foundation monogram" width="200"/>
 
-For more design considerations for our logo, please refer to our [style guide](/styeguide).
+For more design considerations for our logo, please refer to our [style guide](https://github.com/EFForg/design/blob/master/styleguide.md).
 
 ## Certbot
 EFF's [Certbot](certbot.eff.org) is a free, open source command line tool for automatically using Let’s Encrypt certificates on manually-administrated websites to enable HTTPS.
