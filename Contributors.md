@@ -34,6 +34,12 @@ We have a few resources to help you develop better interfaces for our projects. 
 
 Here's a few issues where design contributors are needed:
 
+* [Privacy Badger UI issues](https://github.com/EFForg/privacybadger/labels/ui)
+* [Privacy Badger UX issues](https://github.com/EFForg/privacybadger/labels/ux)
+* [HTTPS Everywhere UI issues](https://github.com/EFForg/https-everywhere/labels/ui)
+* [START-TLS Design issues](https://github.com/EFForg/starttls-frontend/labels/design)
+* [Certbot website issues](https://github.com/certbot/website/issues)
+
 
 ## What to expect
 
