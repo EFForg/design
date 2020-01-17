@@ -48,6 +48,8 @@ When your contribution to a project involves a significant UI change, the projec
 * Significant changes on how UI elements look or work
 * Logo or branding changes
 
+We appreciate your time! Please don't send us full color high definition mockups first, let's have a conversation with a few sketches before you suggest a very refined version of your idea.
+
 ## Contributing with user research
 
 We love user research and we're often short on resources to user test everything we want.  We have prepared a specific guide if you want to help us with Research.  We'd appreciate it!
