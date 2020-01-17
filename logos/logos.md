@@ -41,8 +41,8 @@ EFF's [HTTPS Everywhere](eff.org/https-everywhere), a free, open source browser 
 EFF's [Privacy Badger](eff.org/privacybadger), a free, open source browser extension that stops third party trackers from gathering information about who you are and what you're doing online.
 
 ### Privacy Badger lockup
-![Privacy Badger lockup](privacybadger-lockup.png)
-![Privacy Badger lockup](privacybadger-lockup.svg)
+![Privacy Badger lockup](eff-privacybadger-lockup.png)
+![Privacy Badger lockup](eff-privacybadger-lockup.svg)
 
 ### Privacy Badger monogram
 ![Privacy Badger monogram](eff-privacybadger-monogram.png)
