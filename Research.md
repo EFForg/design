@@ -28,6 +28,10 @@ If you're new to user testing, or even if you've done it before, this article by
 Good news! You don't need to set up some elaborate test in order to conduct research. You really only need a small number of users to effectively test products. [This article](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) by the Nielson Norman Group tells you why.
 
 Consider recruiting users at conferences, trainings, public events, or via social media. You can also use a service like [Userbrain](https://userbrain.net/) to find volunteers.
+
+### Set goals
+What are you trying to accomplish with your test? What specific features or flows are you testing? What insights do you hope to gain?
+
 ### Build a survey
 ### Build a script
 ### Create a paper prototype
