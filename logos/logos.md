@@ -7,13 +7,12 @@ This page includes downloadable assets for our projects. If you have questions o
 The Electronic Frontier Foundation logo, full variations, and logo usage guidelines are included in our [press kit(https://www.eff.org/press/logos).
 
 ### EFF lockup
-<img src="eff-logo-lockup-red.png" alt="Electronic Frontier Foundation lockup" width="100"/>
-![Electronic Frontier Foundation lockup](eff-logo-lockup-red.png)
-![Electronic Frontier Foundation lockup](eff-logo-lockup-red.svg)
+<img src="eff-logo-lockup-red.png" alt="Electronic Frontier Foundation lockup" width="400"/>
+<img src="eff-logo-lockup-red.svg" alt="Electronic Frontier Foundation lockup" width="400"/>
 
 ### EFF monogram
-![EFF monogram](eff-logo-monogram-red.png)
-![EFF monogram](eff-logo-monogram-red.svg)
+<img src="eff-logo-monogram-red.png" alt="Electronic Frontier Foundation monogram" width="400"/>
+<img src="eff-logo-monogram-red.svg" alt="Electronic Frontier Foundation monogram" width="400"/>
 For more design considerations for our logo, please refer to our [style guide](/styeguide).
 
 ## Certbot
