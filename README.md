@@ -1,7 +1,7 @@
 # design
 Open Source product design resources
 
-* Contributors guide
+* [Contributors guide](https://github.com/EFForg/design/blob/master/Contributors.md)
 * Resources on this repo
 * Style guide
-* Research guide
+* [User Research guide](https://github.com/EFForg/design/blob/master/Research.md)
