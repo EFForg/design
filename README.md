@@ -5,7 +5,7 @@ Open Source product design resources
 Please read this first! This is a quick guide on how to contribute to one of our Open Source projects with design, research or UI changes.
 
 ## Resources on this repo
-* Product logos
+* [Product logos](https://github.com/EFForg/design/blob/master/logos/logos.md)
 * Fonts list
 * UI code fragments and examples
 * Other files (sample wireframes, buttons, fields)
