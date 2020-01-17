@@ -18,7 +18,7 @@ If you want to contribute with other EFF products or websites, we don't have spe
 
 If you're looking for EFF's logos and brand guidelines, they're at [https://www.eff.org/press/logos](https://www.eff.org/press/logos)
 
-Please file an issue on this repository if there's anything you'd like to see that is not covered here.
+Please [open an issue](https://github.com/EFForg/design/issues) on this repository if there's anything you'd like to see that is not covered here.
 
 ## Resources
 
@@ -53,3 +53,7 @@ We appreciate your time! Please don't send us full color high definition mockups
 ## Contributing with user research
 
 We love user research and we're often short on resources to user test everything we want.  We have prepared a specific guide if you want to help us with Research.  We'd appreciate it!
+
+## Contact us
+
+Please review [the existing issues](https://github.com/EFForg/design/issues) on this repo. If you don't see an issue that adresses your question, open a new one! We actively monitor this queue.  
