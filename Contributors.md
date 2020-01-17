@@ -20,7 +20,7 @@ If you're looking for EFF's logos and brand guidelines, they're at [https://www.
 
 Please file an issue on this repository if there's anything you'd like to see that is not covered here.
 
-## Resources (style guide and files)
+## Resources
 
 We have a few resources to help you develop better interfaces for our projects. You will notice some of these are not implemented in the product yet, but we're working towards a unified style and we hope you help us out!
 
