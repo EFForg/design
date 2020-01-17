@@ -40,7 +40,7 @@ You should hear back from our team within two weeks, at which point we'll let yo
 
 ### Here are a few things we are looking for help with
 * Help us recruit user testers!
-* 
+* User testing proposals for mobile on any of our extensions
 
 ### Here are a few things we are not looking to do at the moment
 * A/B testing
