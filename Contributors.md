@@ -36,10 +36,12 @@ Here's a few issues where design contributors are needed:
 ## What to expect
 
 When your contribution to a project involves a significant UI change, the project maintainers will often ask the EFF design team for input and feedback.
-* It often takes us ~about a week~ to work on the issue and provide feedback. This can be much faster if your design is already using our guidelines!
+* It often takes us about two weeks to work on the issue and provide feedback. This can be much faster if your design is already using our guidelines and assets.
 * If your design needs changes and/or we have suggestions, we will comment on your pull request (we'll be very nice!).
 * If you have more general questions or a research proposal, please open an issue on this repo.
 
 ## What we're *not* looking for
 
 ## Contributing with user research
+
+We love user research and we're often short on resources to user test everything we want.  We have prepared a specific guide if you want to help us with Research.  We'd appreciate it!
