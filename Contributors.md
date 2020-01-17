@@ -14,7 +14,7 @@ Most of our contributors work directly on improving the UI and functionality of 
  
 Normally you'll open a Pull Request for your changes in the product repo.
 
-If you want to contribute with other EFF products or websites, we don't have specific guidelines for you right now, but we'll be developing those in the future.  
+If you want to contribute to other EFF products or websites, we don't have specific guidelines for you yet, but we'll be developing those in the future.  
 
 If you're looking for EFF's logos and brand guidelines, they're at [https://www.eff.org/press/logos](https://www.eff.org/press/logos)
 
@@ -44,7 +44,7 @@ Here's a few issues where design contributors are needed:
 ## What to expect
 
 When your contribution to a project involves a significant UI change, the project maintainers will often ask the EFF design team for input and feedback.
-* It often takes us about two weeks to work on the issue and provide feedback. This can be much faster if your design is already using our guidelines and assets.
+* It takes us about two weeks to work on the issue and provide feedback. This can be much faster if your design is already using our guidelines and assets.
 * If your design needs changes and/or we have suggestions, we will comment on your pull request (we'll be very nice!).
 * If you have more general questions or a research proposal, please open an issue on this repo.
 
@@ -54,7 +54,7 @@ When your contribution to a project involves a significant UI change, the projec
 * Significant changes on how UI elements look or work
 * Logo or branding changes
 
-We appreciate your time! Please don't send us full color high definition mockups first, let's have a conversation with a few sketches before you suggest a very refined version of your idea.
+We appreciate your time! Please don't send us full color high definition mockups first; let's have a conversation with a few sketches before you suggest a very refined version of your idea.
 
 ## Contributing with user research
 
@@ -62,4 +62,4 @@ We love user research and we're often short on resources to user test everything
 
 ## Contact us
 
-Please review [the existing issues](https://github.com/EFForg/design/issues) on this repo. If you don't see an issue that adresses your question, open a new one! We actively monitor this queue.  
+Please review [the existing issues](https://github.com/EFForg/design/issues) on this repo. If you don't see an issue that addresses your question, open a new one! We actively monitor this queue.  
