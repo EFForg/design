@@ -44,6 +44,10 @@ When your contribution to a project involves a significant UI change, the projec
 
 ## What we're *not* looking for
 
+* Complete redesigns of any of the apps or extensions
+* Significant changes on how UI elements look or work
+* Logo or branding changes
+
 ## Contributing with user research
 
 We love user research and we're often short on resources to user test everything we want.  We have prepared a specific guide if you want to help us with Research.  We'd appreciate it!
