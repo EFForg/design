@@ -10,7 +10,7 @@ Please read this first! This is a quick guide on how to contribute to one of our
 * UI code fragments and examples
 * Other files (sample wireframes, buttons, fields)
 
-## Style guide
+## [Style guide](https://github.com/EFForg/design/blob/master/styleguide.md)
 This guide contains information on branding, colors, accesibility and internationalization considerations, licensing, typography, buttons and fields, and a grid system.
 
 ## [User Research guide](https://github.com/EFForg/design/blob/master/Research.md)
