@@ -1,14 +1,14 @@
 # Logos for EFF Projects
 Thanks for your interest in the Electronic Frontier Foundation's work! If you like the free, open source and CC-BY projects from our 501(c)3 nonprofit, please consider [donating to EFF](https://supporters.eff.org/donate) today. We're grateful for your support!
 
-This page includes downloadable assets for our projects. If you have questions on how to use our trademarks—such as using them for slide decks, website or on stickers—please refer to our [trademark and brand usage policy](https://www.eff.org/pages/trademark-and-brand-usage-policy).
+This page includes downloadable assets for our projects. If you have questions on how to use our trademarks—such as using them for slide decks, websites or on stickers—please refer to our [trademark and brand usage policy](https://www.eff.org/pages/trademark-and-brand-usage-policy).
 
 ## EFF's logo
-The Electronic Frontier Foundation logo, full variations, and logo usage guidelines are included in our [press kit].(https://www.eff.org/press/logos)
+The Electronic Frontier Foundation logo, full variations, and logo usage guidelines are included in our [press kit(https://www.eff.org/press/logos).
 
 ### EFF lockup
-![Electronic Frontier Foundation lockup](eff-logo-lockup-red.png)
-![Electronic Frontier Foundation lockup](eff-logo-lockup-red.svg)
+![Electronic Frontier Foundation lockup](eff-logo-lockup-red.png =250x)
+![Electronic Frontier Foundation lockup](eff-logo-lockup-red.svg =250x)
 
 ### EFF monogram
 ![EFF monogram](eff-logo-monogram-red.png)
