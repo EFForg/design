@@ -7,10 +7,10 @@ We want to make sure you have all the information you need to make design decisi
 
 Most of our contributors work directly on improving the UI and functionality of one of our Open Source products:
 
-  * Privacy Badger https://github.com/EFForg/privacybadger
-  * HTTPs Everywhere https://github.com/EFForg/https-everywhere
-  * Certbot https://github.com/certbot
-  * STARTTLS Everywhere scanner https://github.com/EFForg/starttls-frontend
+  * [Privacy Badger](https://github.com/EFForg/privacybadger)
+  * [HTTPs Everywhere](https://github.com/EFForg/https-everywhere)
+  * [Certbot](https://github.com/certbot)
+  * [STARTTLS Everywhere scanner](https://github.com/EFForg/starttls-frontend)
  
 Normally you'll open a Pull Request for your changes in the product repo.
 
