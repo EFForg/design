@@ -7,11 +7,13 @@ We want to make sure you have all the information you need to make design decisi
 
 Most of our contributors work directly on improving the UI and functionality of one of our Open Source products:
 
-  * Privacy Badger
-  * HTTPs Everywhere
-  * Certbot
-  * STARTTLS Everywhere
+  * Privacy Badger https://github.com/EFForg/privacybadger
+  * HTTPs Everywhere https://github.com/EFForg/https-everywhere
+  * Certbot https://github.com/certbot
+  * STARTTLS Everywhere scanner https://github.com/EFForg/starttls-frontend
  
+Normally you'll open a Pull Request for your changes in the product repo.
+
 If you want to contribute with other EFF products or websites, we don't have specific guidelines for you right now, but we'll be developing those in the future.  
 
 If you're looking for EFF's logos and brand guidelines, they're at [https://www.eff.org/press/logos](https://www.eff.org/press/logos)
