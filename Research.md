@@ -11,7 +11,9 @@ These include:
 
 ## Considerations and Constraints
 ### Privacy
-EFF is a privacy organization, and we take the privacy of our user testing participants seriously. 
+EFF is a privacy organization, and we take the privacy of our user testing participants seriously. EFF is committed to protecting the privacy of visitors to our website, as well as our members and volunteers. In general, EFF uses the information provided by users to further its mission, including to protect privacy, defend freedom and innovation, and to protect users' rights in the digital world. Keep this in mind when conducting user tests of your own. 
+For more information, please read [EFF's privacy policy](https://www.eff.org/policy), as well as our [Privacy Policy for our Software and Technology Projects](https://www.eff.org/code/privacy/policy).
+
 
 ## How to
 
