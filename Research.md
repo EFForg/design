@@ -39,7 +39,7 @@ After you identify the goal(s) of your user test, identify a specific task for y
 * Thank the user
 * Introduce yourself and the project
 * Preview the task and what the user can expect
-* The task(s) ***with a reminder to users that they should think aloud while carrying out the assigned task!***
+* Include the task(s) ***with a reminder to users that they should think aloud while carrying out the assigned task!***
 * Both open-ended and Y/N questions
 
 Here are some tips for [writing a script](https://medium.com/user-research/user-research-basics-creating-a-test-and-script-bef65496292c) and an [example script](https://www.dropbox.com/s/ome4sshecjs87t6/User%20Testing%20Script%20-%20Example.docx?dl=0) for inspiration.
