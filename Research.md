@@ -22,6 +22,7 @@ EFF is a privacy organization, and we take the privacy of our user testing parti
 For more information, please read [EFF's privacy policy](https://www.eff.org/policy), as well as our [Privacy Policy for our Software and Technology Projects](https://www.eff.org/code/privacy/policy).
 
 ## How to
+If you're new to user testing, or even if you've done it before, this article by the [Neilson Norman Group](https://www.nngroup.com/articles/pm-research-plan/) is a good primer on all that's involved with user testing 
 
 ### Recruit users
 Good news! You don't need to set up some elaborate test in order to conduct research. You really only need a small number of users to effectively test products. [This article](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) by the Nielson Norman Group tells you why.
