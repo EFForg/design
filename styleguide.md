@@ -38,3 +38,6 @@ Other typefaces we commonly use are: [League Gothic](https://www.theleagueofmove
 
 ## PROJECT LOGOS
 EFF has a small ecosystem of websites and browser extensions that have standalone branding. [You can find a list of these projects and their corresponding logo files here](https://github.com/EFForg/design/blob/master/logos/logos.md). 
+
+## WEB ELEMENTS
+We are slowly but surely working towards standardizing the UI of our one-off websites, action pages, and action pages. FOR MY OWN PURPOSES: what is the best way to link to specific elements from Schatzkin's's style guide? Does she want to make it public? Do code snippets make sense? Should this section link to both her style guide and a folder of .svg files, and 
