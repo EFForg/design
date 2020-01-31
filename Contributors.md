@@ -56,9 +56,21 @@ When your contribution to a project involves a significant UI change, the projec
 
 We appreciate your time! Please don't send us full color high definition mockups first; let's have a conversation with a few sketches before you suggest a very refined version of your idea.
 
+## Our guiding values as designers and developers at EFF
+
+[EFF is an organization that cares about security, privacy, openness, and remixability (among many other organizational values)](https://www.eff.org/about). As designers and developers for EFF's free privacy and security tools, we iterate on our tools to meet the following values:
+
++ Simplicity: Our projects should be simple to use. In the case of our browser extensions, we want people to be able to download and have the tool work!  We may deprioritize things that may be too advanced or complicate someone's use of our tool.
+
++ Clarity: Our projects should be simple to understand. At minimum, we prioritize designs that let people know how enabling an on/off switch or clicking a button, affects the tool's state or where the extension lives in their browser.
+
++ Accessibility: Our projects should be accessible to all users. We strive to make inclusive products that are usable and enjoyable, and especially welcome feedback on how we can improve the experience for users with disabilities. If you're interested in contributing to our understanding of how our software projects can be more accessible for people with disabilities, we'd be grateful for your feedback. See our [user research section](https://github.com/EFForg/design/blob/master/Research.md) for how to get involved with our formal feedback cycles.
+
++ Education: Our projects should meet EFF's goals for informing the public. We are always looking for ways to give simple but relevant information to our users, whether that's onboarding for the tool, or for the dedicated learner, information on how third-party tracking works or how HTTPS protects your web browsing. 
+
 ## Contributing with user research
 
-We love user research and we're often short on resources to user test everything we want.  We have prepared a specific guide if you want to help us with Research.  We'd appreciate it!
+We love user research and we're often short on resources to user test everything we want. If you're interested in helping us with our goals of simplicity, clarity, accessibility and education, we have prepared a specific guide if you want to help us with Research. We'd appreciate it!
 
 ## Contact us
 
