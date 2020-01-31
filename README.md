@@ -16,4 +16,4 @@ This guide contains information on branding, colors, accesibility and internatio
 If you want to contribute with User Research for one of our products, read this.
 
 ## [Internationalization, Localization, and Translation guide]()
-If you have ideas for internationalization, localization or translation for one of our products, read this.
+If you have ideas for internationalization, localization or translation for our product designs, read this.
