@@ -18,14 +18,8 @@ The Monogram is just three bold letters. It should be used in either red or blac
 ---
 #### EFF Logo (Lockup)
 ---
-#### Lockup with image
----
-#### Vertical monogram
----
 #### Color variations
 ---
-#### Will think of other logo instances at a later date lol
-
 
 ## COLOR
 
