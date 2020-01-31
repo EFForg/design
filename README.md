@@ -6,7 +6,6 @@ Please read this first! This is a quick guide on how to contribute to one of our
 
 ## Resources on this repo
 * [Product logos](https://github.com/EFForg/design/blob/master/logos/logos.md)
-* Fonts list
 * UI code fragments and examples
 * Other files (sample wireframes, buttons, fields)
 
