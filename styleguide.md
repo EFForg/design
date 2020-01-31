@@ -26,6 +26,8 @@ The Monogram is just three bold letters. It should be used in either red or blac
 ---
 
 ## COLOR
+Our colors are chosen based on a mix of aesthetic preference and accessibility considerations.
+As a rule, for non-decorative, functional aspects of our designs (e.g. buttons, links, text), we strive to meet [WCAG guidelines](https://webaim.org/articles/contrast/), and check for color contrast issues. 
 
 ## TYPOGRAPHY
 Note: In some cases, the Google font page is linked to. However, we host the fonts ourselves and do not serve fonts from Google servers. 
