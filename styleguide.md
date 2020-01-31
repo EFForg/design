@@ -2,7 +2,7 @@
 
 ## BRAND LOGOS
 ### History
-![Primary EFF Logo image](EFF_primary_logo.jpg)
+![Primary EFF Logo image](https://www.eff.org/files/2018/06/14/eff-logo-lockup-black.png)
 
 This is the EFF monogram! It's big, bold, and (in the extremely biased opinion of this designer who works with it all the time) a joy to use. It also has [a great backstory](https://www.eff.org/deeplinks/2018/07/effs-new-logo-member-shirt) involving a very niche Tumblr blog, disengenuous copyright claims, and a highly regarded design agency. 
 
