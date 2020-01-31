@@ -26,8 +26,8 @@ The Monogram is just three bold letters. It should be used in either red or blac
 ---
 
 ## COLOR
-Our colors are chosen based on a mix of aesthetic preference and accessibility considerations.
-As a rule, for non-decorative, functional aspects of our designs (e.g. buttons, links, text), we strive to meet [WCAG guidelines](https://webaim.org/articles/contrast/), and check for color contrast issues. 
+Our colors are chosen based on a mix of aesthetic preference, branding and accessibility considerations.
+As a rule, for non-decorative, functional aspects of our designs (e.g. buttons, links, text), we strive to meet [WCAG guidelines](https://webaim.org/articles/contrast/). We check for color contrast issues, and do our best to remember to use additional indicators aside from primarily color. If we might have overlooked an accessibility issue with any of our color considerations, please get in touch with us.
 
 ## TYPOGRAPHY
 Note: In some cases, the Google font page is linked to. However, we host the fonts ourselves and do not serve fonts from Google servers. 
@@ -41,3 +41,7 @@ EFF has a small ecosystem of websites and browser extensions that have standalon
 
 ## WEB ELEMENTS
 We are slowly but surely working towards standardizing the UI of our one-off websites, action pages, and action pages. FOR MY OWN PURPOSES: what is the best way to link to specific elements from Schatzkin's's style guide? Does she want to make it public? Do code snippets make sense? Should this section link to both her style guide and a folder of .svg files, and 
+
+## LOCALIZATION
+As a small design team, we're eventually creating parameters for localized designs of EFF projects, and are keen to receive community feedback to inform our approach. If you're from a community interested in assisting us with localizing our open source software projects into your language, please get in touch.
+
