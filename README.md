@@ -13,5 +13,7 @@ Please read this first! This is a quick guide on how to contribute to one of our
 This guide contains information on branding, colors, accesibility and internationalization considerations, licensing, typography, buttons and fields, and a grid system.
 
 ## [User Research guide](https://github.com/EFForg/design/blob/master/Research.md)
-If you want to contribute with User Research for one of our proudcts, read this.
+If you want to contribute with User Research for one of our products, read this.
 
+## [Internationalization, Localization, and Translation guide]()
+If you have ideas for internationalization, localization or translation for one of our products, read this.
