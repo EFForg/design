@@ -68,11 +68,13 @@ We appreciate your time! Please don't send us full color high definition mockups
 
 + Educational: Our projects should meet EFF's goals for informing the public. We are always looking for ways to give simple but relevant information to our users, whether that's onboarding for the tool, or for the dedicated learner, information on how third-party tracking works or how HTTPS protects your web browsing. 
 
+We also strive to meet the following additional parameters:
+
 + Remixable: Our designs are CC-BY, and our code is open for remixing. Contributions to our open source designs would also be expected to meet these standards (e.g. graphics that are CC-BY licensed).
 
 ## Contributing with user research
 
-We love user research and we're often short on resources to user test everything we want. If you're interested in helping us with our goals of simplicity, clarity, accessibility and education, we have prepared a specific guide if you want to help us with Research. We'd appreciate it!
+We love user research and we're often short on resources to user test everything we want. If you're interested in helping us with our goals of simple, clear, accessible and educational, we have prepared a specific guide if you want to help us with Research. We'd appreciate it!
 
 ## Contact us
 
