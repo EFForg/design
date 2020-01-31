@@ -58,15 +58,17 @@ We appreciate your time! Please don't send us full color high definition mockups
 
 ## Our guiding values as designers and developers at EFF
 
-[EFF is an organization that cares about security, privacy, openness, and remixability (among many other organizational values)](https://www.eff.org/about). As designers and developers for EFF's free privacy and security tools, we iterate on our tools to meet the following values:
+[EFF is an organization that cares about security and privacy (among many other organizational values)](https://www.eff.org/about). As designers and developers for EFF's free privacy and security tools, we iterate on our tools to meet the following values:
 
-+ Simplicity: Our projects should be simple to use. In the case of our browser extensions, we want people to be able to download and have the tool work!  We may deprioritize things that may be too advanced or complicate someone's use of our tool.
++ Simple: Our projects should be simple to use. In the case of our browser extensions, we want people to be able to download and have the tool work!  We may deprioritize things that may be too advanced or complicate someone's use of our tool.
 
-+ Clarity: Our projects should be simple to understand. At minimum, we prioritize designs that let people know how enabling an on/off switch or clicking a button, affects the tool's state or where the extension lives in their browser.
++ Clear: Our projects should be simple to understand. At minimum, we prioritize designs that let people know how enabling an on/off switch or clicking a button, affects the tool's state or where the extension lives in their browser.
 
-+ Accessibility: Our projects should be accessible to all users. We strive to make inclusive products that are usable and enjoyable, and especially welcome feedback on how we can improve the experience for users with disabilities. If you're interested in contributing to our understanding of how our software projects can be more accessible for people with disabilities, we'd be grateful for your feedback. See our [user research section](https://github.com/EFForg/design/blob/master/Research.md) for how to get involved with our formal feedback cycles.
++ Accessible: Our projects should be accessible to all users. We strive to make inclusive products that are usable and enjoyable. Some examples of how this manifests are prioritizing legibility, checking that color contrast meets WCAG standards, and using alt text. We especially welcome feedback on how we can improve the experience for users with disabilities. If you're interested in contributing to our understanding of how our software projects can be more accessible for people with disabilities, we'd be grateful for your feedback. See our [user research section](https://github.com/EFForg/design/blob/master/Research.md) for how to get involved with our formal feedback cycles.
 
-+ Education: Our projects should meet EFF's goals for informing the public. We are always looking for ways to give simple but relevant information to our users, whether that's onboarding for the tool, or for the dedicated learner, information on how third-party tracking works or how HTTPS protects your web browsing. 
++ Educational: Our projects should meet EFF's goals for informing the public. We are always looking for ways to give simple but relevant information to our users, whether that's onboarding for the tool, or for the dedicated learner, information on how third-party tracking works or how HTTPS protects your web browsing. 
+
++ Remixable: Our designs are CC-BY, and our code is open for remixing. Contributions to our open source designs would also be expected to meet these standards (e.g. graphics that are CC-BY licensed).
 
 ## Contributing with user research
 
