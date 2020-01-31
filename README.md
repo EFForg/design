@@ -14,6 +14,3 @@ This guide contains information on branding, colors, accesibility and internatio
 
 ## [User Research guide](https://github.com/EFForg/design/blob/master/Research.md)
 If you want to contribute with User Research for one of our products, read this.
-
-## [Internationalization, Localization, and Translation guide]()
-If you have ideas for internationalization, localization or translation for our product designs, read this.
