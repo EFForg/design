@@ -26,7 +26,7 @@ Presently, our design parameters for banner images are that they should span the
 Say that you've downloaded software, like one of EFF's fine browser extensions. As a new user, you may need a tour of features!
 Here are the components to keep in mind.
 
-he basic requirements are:
+The basic requirements are:
 + materials to get started
 + if it's an onboarding flow: highlight the most important features of the tool, and keep it shorter than 3-5 key features you'd like people to see.
 + if if's a tutorial: clear, numbered steps are important.
