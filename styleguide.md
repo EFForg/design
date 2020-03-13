@@ -18,19 +18,19 @@ The Monogram is just three bold letters. It should be used in either red or blac
 ![EFF monogram red](logos/EFFbrandguide_REDmonogram.png)
 
 SVG files: 
-[Red monogram](logos/eff-logo-monogram-red.svg)
-
-[Black monogram](logos/EFF_monogram-black.svg)
+[Red monogram](logos/EFFbrandguide_BLACKmonogram.svg)
+[Black monogram](logos/EFFbrandguide_REDmonogram.svg)
 
 ---
 #### EFF Logo (Lockup)
 
-![EFF Lockup red](logos/eff-logo-lockup-red.png)
-![EFF Lockup black](logos/EFF-logo-lockup-black.png)
+![EFF Lockup black](logos/EFFbrandguide_BLACKlockup.png)
+![EFF Lockup red](logos/EFFbrandguide_REDlockup.png)
 
 SVG Files: 
-[Red lockup](logos/eff-logo-lockup-red.svg)
-[Black lockup](logos/EFF-logo-lockup-black.svg)
+[Black lockup](logos/EFFbrandguide_BLACKlockup.svg)
+[Red lockup](logos/EFFbrandguide_REDlockup.svg)
+
 
 ---
 #### Color variations
