@@ -13,9 +13,9 @@ The advantage to having an adaptable, modular logo is that it simply *works* acr
 
 The Monogram is just three bold letters. It should be used in either red or black. Here it is on a white background.
 
-![EFF monogram black](logos/EFF_Monogram-primary-black.png)
+![EFF monogram black](logos/EFFbrandguide_BLACKmonogram.png)
 
-![EFF monogram red](logos/eff-logo-monogram-red.png)
+![EFF monogram red](logos/EFFbrandguide_REDmonogram.png)
 
 SVG files: 
 [Red monogram](logos/eff-logo-monogram-red.svg)
