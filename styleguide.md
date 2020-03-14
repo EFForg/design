@@ -25,6 +25,7 @@ SVG files:
 #### EFF Logo (Lockup)
 
 ![EFF Lockup black](logos/EFFbrandguide_BLACKlockup.png)
+
 ![EFF Lockup red](logos/EFFbrandguide_REDlockup.png)
 
 SVG Files: 
@@ -35,7 +36,7 @@ SVG Files:
 Our colors are chosen based on a mix of aesthetic preference, branding and accessibility considerations.
 As a rule, for non-decorative, functional aspects of our designs (e.g. buttons, links, text), we strive to meet [WCAG guidelines](https://webaim.org/articles/contrast/). We check for color contrast issues, and do our best to remember to use additional indicators aside from primarily color. If we might have overlooked an accessibility issue with any of our color considerations, please get in touch with us.
 
-![EFF main red swatch](SWATCHES/EFFbrandguide_#ec1e1e.svg)
+![ahhhhhh](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23ec1e1e.png?token=AA5Z4FRKRXYKRF3F3I4P3P26OWEUS)
 
 ## TYPOGRAPHY
 Note: In some cases, the Google font page is linked to. However, we host the fonts ourselves and do not serve fonts from Google servers. 
