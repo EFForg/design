@@ -31,14 +31,11 @@ SVG Files:
 [Black lockup](logos/EFFbrandguide_BLACKlockup.svg)
 [Red lockup](logos/EFFbrandguide_REDlockup.svg)
 
-
----
-#### Color variations
----
-
 ## COLOR
 Our colors are chosen based on a mix of aesthetic preference, branding and accessibility considerations.
 As a rule, for non-decorative, functional aspects of our designs (e.g. buttons, links, text), we strive to meet [WCAG guidelines](https://webaim.org/articles/contrast/). We check for color contrast issues, and do our best to remember to use additional indicators aside from primarily color. If we might have overlooked an accessibility issue with any of our color considerations, please get in touch with us.
+
+![EFF main red swatch](SWATCHES/EFFbrandguide_#ec1e1e.svg)
 
 ## TYPOGRAPHY
 Note: In some cases, the Google font page is linked to. However, we host the fonts ourselves and do not serve fonts from Google servers. 
