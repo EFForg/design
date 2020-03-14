@@ -56,3 +56,5 @@ We are slowly but surely working towards standardizing the UI of our one-off web
 ## LOCALIZATION
 As a small design team, we're eventually creating parameters for localized designs of EFF projects, and are keen to receive community feedback to inform our approach. If you're from a community interested in assisting us with localizing our open source software projects into your language, please get in touch.
 
+![color-a](/swatches/color-a.svg)
+`#ff0077`
