@@ -36,7 +36,13 @@ SVG Files:
 Our colors are chosen based on a mix of aesthetic preference, branding and accessibility considerations.
 As a rule, for non-decorative, functional aspects of our designs (e.g. buttons, links, text), we strive to meet [WCAG guidelines](https://webaim.org/articles/contrast/). We check for color contrast issues, and do our best to remember to use additional indicators aside from primarily color. If we might have overlooked an accessibility issue with any of our color considerations, please get in touch with us.
 
-![ahhhhhh](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23ec1e1e.png?token=AA5Z4FRKRXYKRF3F3I4P3P26OWEUS)
+|                                                                        SWATCH                                                                       |   HEX   |       RGB      |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:--------------:|
+|   ![EFF_red](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23ec1e1e.png?token=AA5Z4FRKRXYKRF3F3I4P3P26OWEUS)  | #ec1e1e |  (236, 30, 30) |
+| ![medium red](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23FF0000.png?token=AA5Z4FWXGUGT4RHWYSRBNCS6OWGE4) | #FF0000 |   (255, 0, 0)  |
+|  ![dark red](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23b80101.png?token=AA5Z4FVAB2AZDGLVOFXCKPS6OWGKA)  | #b80101 |   (184, 1, 1)  |
+|    ![blue](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%234B6A88.png?token=AA5Z4FVX3XENK3G7KB553WK6OWGMG)    | #254B66 | (37, 75, 102)  |
+|  ![dark blue](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23254B66.png?token=AA5Z4FUDGBAU7DQFEL6LF3C6OWGMM) | #4B6A88 | (75, 106, 136) |
 
 ## TYPOGRAPHY
 Note: In some cases, the Google font page is linked to. However, we host the fonts ourselves and do not serve fonts from Google servers. 
