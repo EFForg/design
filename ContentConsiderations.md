@@ -29,8 +29,8 @@ Here are the components to keep in mind.
 
 ### The basic requirements are
 + materials to get started
-+ if it's an onboarding flow: highlight the most important features of the tool, and keep it shorter than 3-5 key features you'd like people to see.
-+ if if's a tutorial: clear, numbered steps are important.
++ if it's an onboarding flow: highlight the most important features of the tool, and keep it to 3-5 key features you'd like people to see.
++ if it's a tutorial: clear, numbered steps are important.
 + screenshots
 
 ### Principles for initial text
