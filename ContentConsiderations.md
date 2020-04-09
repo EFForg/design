@@ -34,11 +34,11 @@ Here are the components to keep in mind.
 + screenshots
 
 ### Principles for initial text
-Design will ask you for some initial text for a user to read upon landing on the guided tour.
-Things to consider include circumstances in which they're reading the text.
+Design will ask you to provide some initial text that a user should read upon landing on the guided tour.
+Consider the circumstances in which the user might be reading such text. For example: 
 
-+ Have they already downloaded the tool? Perhaps you could thank them for downloading it! A good example is the extension page for Privacy Badger, when you "take the tour".
-+ If they haven't already downloaded the tool, you'll need to give them further context around what system requirements are. A good example is Surveillance Self Defense's individual guides, such as for following downloading Signal on Android. Include the download location (where someone would access the download), system requirements, version used in the guide, license, and additional reading. If appropriate, include the estimated time it would take to follow the tutorial.
++ Has the user already downloaded the tool? Perhaps you could thank them for downloading it! A good example is the extension page for Privacy Badger, when you "take the tour".
++ If the user hasn't already downloaded the tool, you'll need to give them further context around what system requirements are. A good example is Surveillance Self Defense's individual guides, such as [How to: Use Signal for Android](https://ssd.eff.org/en/module/how-use-signal-android). Include the download location (where someone would access the download), system requirements, version used in the guide, license, and additional reading. If appropriate, include the estimated time it would take to follow the tutorial.
 
 ### Considerations for structuring your writing
 Design will help you with coming up with some general content and expected spacing. It's even better if you're able to provide drafted content yourself! Our goals are to make it easy to understand, easy to use, and easy to get started.
