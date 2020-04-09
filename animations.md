@@ -25,16 +25,16 @@ Use images or assets that you do not own. Look out for types of attribution and 
 Use images that you've created yourself. If you're short on time or if it's preferable to use graphics that exist out in the world, use external images that are CC-BY, which require attribution. A good resource is commons.wikimedia.org.
 
 ### **Type:** 
-####DON’T: 
+#### DON’T: 
 Use proprietary typefaces.
-####DO: 
+#### DO: 
 Use free and open typefaces. You can check fonts.google.com.
 
 ### **Privacy & security constraints:** 
 If you are making animations that include a working piece of software, such as for a demo or for a tutorial:
-####DON’T: 
+#### DON’T: 
 record private / sensitive information on your screen.
-####DO: 
+#### DO: 
 make a dummy account, only record the part of your screen that you need.
 
 ### **Accessibility** 
