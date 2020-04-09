@@ -19,9 +19,9 @@ this section could use love!
 The following sections details considerations for tutorial gifs, and for illustrating concepts. 
 
 ### **Visuals:** 
-####DON'T: 
+#### DON'T: 
 Use images or assets that you do not own. Look out for types of attribution and copyright considerations.
-####DO: 
+#### DO: 
 Use images that you've created yourself. If you're short on time or if it's preferable to use graphics that exist out in the world, use external images that are CC-BY, which require attribution. A good resource is commons.wikimedia.org.
 
 ### **Type:** 
@@ -38,9 +38,9 @@ record private / sensitive information on your screen.
 make a dummy account, only record the part of your screen that you need.
 
 ### **Accessibility** 
-####DON'T:
+#### DON'T:
 Forget about these considerations :)
-####DO:
+#### DO:
 + Write alt-text for your animations! Really! See our tips for writing alt-text [here]. 
 + Be mindful of epilepsy considerations for animations. Count how many flashes you have: Have fewer than 3 flashes in any one second period. Source: w3.org/TR/WCAG20/#seizure
 + Be mindful of color contrast. Aim for 4.5:1. Check webaim.org/resources/contrastchecker if you're unsure of your contrast.
@@ -48,7 +48,7 @@ Forget about these considerations :)
 + Be mindful of pace: Make sure the speed is at a comfortable reading pace for others.
 + Show your animations to others for feedback! You can user test animations to check for comprehension, and whether things were at a comfortable pace.
 
-####CONSIDER: Adding captions (depending on the content)!
+#### CONSIDER: Adding captions (depending on the content)!
 If you’re editing a video with audio, please consider adding captions to the original video or gif version of it. Captions can be helpful for lots of situations:
 + folks scanning their social media feeds without having to click in to hear, 
 + with comedic effect, and 
