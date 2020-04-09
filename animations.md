@@ -1,4 +1,4 @@
-#Animations at EFF
+## Animations at EFF
 
 As a small generalist design team at a nonprofit, our workload mostly consists of illustrations, web design, and user experience tasks. However, once in a while, we have some capacity to work on motion graphics, specifically for:
 
@@ -11,7 +11,13 @@ We're still building our capacity on animations and are open to feedback!
 Here are some considerations we keep in mind.
 
 --
+
+## Considerations for Movement in an Interface
+this section could use love!
+
 ## EFF-y Principles for Animations 
+The following sections details considerations for tutorial gifs, and for illustrating concepts. 
+
 ### **Visuals:** 
 DON'T: Use images or assets that you do not own. Look out for types of attribution and copyright considerations.
 DO: Use images that you've created yourself. If you're short on time or if it's preferable to use graphics that exist out in the world, use external images that are CC-BY, which require attribution. A good resource is commons.wikimedia.org.
@@ -52,3 +58,6 @@ If you’re editing a video with audio, please consider adding captions to the o
 + cut out unnecessary details and length
 + remove clutter
 
+
+## Videos
+This section could use some love!
