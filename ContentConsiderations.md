@@ -41,21 +41,21 @@ Consider the circumstances in which the user might be reading such text. For exa
 + If the user hasn't already downloaded the tool, you'll need to give them further context around what system requirements are. A good example is Surveillance Self Defense's individual guides, such as [How to: Use Signal for Android](https://ssd.eff.org/en/module/how-use-signal-android). Include the download location (where someone would access the download), system requirements, version used in the guide, license, and additional reading. If appropriate, include the estimated time it would take to follow the tutorial.
 
 ### Considerations for structuring your writing
-Design will help you with coming up with some general content and expected spacing. It's even better if you're able to provide drafted content yourself! Our goals are to make it easy to understand, easy to use, and easy to get started.
+Design will help you come up with some general content and expected spacing. If you're able to provide drafted content yourself, even better! Remember, the goal is to: make it easy to understand, easy to use, and easy to get started.
 
-A principle to keep in mind are learning objectives. What do you hope someone can accomplish at the end of reading this content? For a primer to learning objectives, please see our piece from the [Security Education Companion](https://sec.eff.org/articles/learning-objectives).
+As you write, keep in mind learning objectives. What do you hope someone can accomplish at the end of reading this content? For a primer to learning objectives, see our piece from the [Security Education Companion](https://sec.eff.org/articles/learning-objectives).
 
 #### 1. Look at existing tutorials and onboarding flows you like.
-These educational materials should be broken down to as simple steps as possible. Consider what the base task that you're asking people to complete is, and then layer on top of it. Think of your favorite educational resources, intended for non-technical beginners: how do they explain things simply? How do they demonstrate how to do the thing?
+These educational materials should be broken down into simple steps. Determine the base task that you're asking people to complete, then layer on top of it. Think of your favorite educational resources, intended for non-technical beginners: how do they explain things in a simple way? How do they demonstrate how to do the thing?
 
 #### 2. Take notes as you download the tool and attempt to use it as a newbie.
-What are the steps you'd need to complete? Go through the process of downloading the tool anew and using it yourself yourself, putting yourself in the mindset of a non-technical beginner. Imagine that you're teaching someone else how to do this with limited exposure to these concepts, and who has never seen your tool before.
+Go through the process of downloading the tool anew. Imagine you're a non-technical beginner and use the tool yourself. What are the steps you need to take to download the tool? Then, imagine you're teaching someone who has never seen this tool before, and has limited exposure to these concepts, how to do this. How does that affect your writing?
 
-#### 3. Write these steps down. Show them to someone else, ideally who is not in the tech world, who can follow the guide.
-Note and adjust your writing if your test reader seems confused by your writing, or confused by any of the features. Consider involving design at this step, as we can help you with structuring your content, and providing a wireframe of what your text would look like in context.
+#### 3. Write these steps down. Show them to someone, ideally who is not in the tech world, and have them follow the guide.
+Adjust your writing if your test reader seems confused by any of the steps. Consider involving design at this point, as the team can help structure the content, and provide a wireframe of what your text would look like in context.
 
-#### 4. Edit the text to be simplified even further.
-Design will likely ask for it to be as simply written as possible. If it's intended for a general audience, please test your writing's readability with a tool like HemingwayApp and aiming for a reading level of 5th grade. 
+#### 4. Simplify the text even further.
+Design will likely ask for it to be as simply written as possible. If it's intended for a general audience, please test your writing's readability with a tool like HemingwayApp and aim for a 5th grade reading level.
 
 #### 5. Polish the writing.
 You'll be expected to go through the normal editorial process for EFF, including abiding by the style guide, as well as activism, tech and legal review.
