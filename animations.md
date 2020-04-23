@@ -39,7 +39,7 @@ Make a dummy account, and only record the part of your screen that you need.
 #### DON'T:
 Forget about these considerations :)
 #### DO:
-+ Write alt-text for your animations! Really! See our tips for writing alt-text [here]. 
++ Write alt-text for your animations! Really! Alternative text is used by screen readers, search engines, and when the image cannot be loaded. By adding alt-text you improve accessibility and search engine optimization.
 + Be mindful of epilepsy considerations for animations. Count how many flashes you have: Have fewer than 3 flashes in any one second period. Source: w3.org/TR/WCAG20/#seizure
 + Be mindful of color contrast. Aim for 4.5:1. Check webaim.org/resources/contrastchecker if you're unsure of your contrast.
 + Be mindful of text size. Make sure that the text is large enough.
