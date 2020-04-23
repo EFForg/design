@@ -57,5 +57,5 @@ EFF has a small ecosystem of websites and browser extensions that have standalon
 We are slowly but surely working towards standardizing the UI of our one-off websites, action pages, and action pages. FOR MY OWN PURPOSES: what is the best way to link to specific elements from Schatzkin's's style guide? Does she want to make it public? Do code snippets make sense? Should this section link to both her style guide and a folder of .svg files, and 
 
 ## LOCALIZATION
-As a small design team, we're eventually creating parameters for localized designs of EFF projects, and are keen to receive community feedback to inform our approach. If you're from a community interested in assisting us with localizing our open source software projects into your language, please get in touch.
+As a small design team, we're eventually creating parameters for localized designs of EFF projects, and are keen to receive community feedback to inform our approach. If you're interested in assisting us with localizing our open source software projects, see how you can get involved [here.](https://github.com/EFForg/design/blob/master/L10N.md)
 
