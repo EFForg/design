@@ -10,19 +10,17 @@ As a small generalist design team at a nonprofit, our workload mostly consists o
 We're still building our capacity on animations and are open to feedback!
 Here are some considerations we keep in mind.
 
---
-
 ## Considerations for Movement in an Interface
 this section could use love!
 
 ## EFF-y Principles for Animations 
-The following sections details considerations for tutorial gifs, and for illustrating concepts. 
+The following sections detail considerations for tutorial gifs, and for illustrating concepts. 
 
 ### **Visuals:** 
 #### DON'T: 
 Use images or assets that you do not own. Look out for types of attribution and copyright considerations.
 #### DO: 
-Use images that you've created yourself. If you're short on time or if it's preferable to use graphics that exist out in the world, use external images that are CC-BY, which require attribution. A good resource is commons.wikimedia.org.
+Use images that you've created yourself. If you're short on time, or if it's preferable to use graphics that exist out in the world, use external images that are [CC-BY](https://creativecommons.org/licenses/by/3.0/us/), which require attribution. A good resource is commons.wikimedia.org.
 
 ### **Type:** 
 #### DON’T: 
@@ -33,9 +31,9 @@ Use free and open typefaces. You can check fonts.google.com.
 ### **Privacy & security constraints:** 
 If you are making animations that include a working piece of software, such as for a demo or for a tutorial:
 #### DON’T: 
-record private / sensitive information on your screen.
+Record private and/or sensitive information on your screen.
 #### DO: 
-make a dummy account, only record the part of your screen that you need.
+Make a dummy account, and only record the part of your screen that you need.
 
 ### **Accessibility** 
 #### DON'T:
@@ -64,7 +62,6 @@ If you’re editing a video with audio, please consider adding captions to the o
 ### Some Art-y Constraints
 + cut out unnecessary details and length
 + remove clutter
-
 
 ## Videos
 This section could use some love!
