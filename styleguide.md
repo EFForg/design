@@ -44,17 +44,18 @@ As a rule, for non-decorative, functional aspects of our designs (e.g. buttons, 
 |  ![dark blue](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23254B66.png?token=AA5Z4FUDGBAU7DQFEL6LF3C6OWGMM) | #4B6A88 | (75, 106, 136) |
 
 ## TYPOGRAPHY
-Note: In some cases, the Google font page is linked to. However, we host the fonts ourselves and do not serve fonts from Google servers. 
 
 For most purposes, we use an open source typyeface called [Montserrat](https://fonts.google.com/specimen/Montserrat). It has several weights, italics, and many special characters. Headings should be rendered in Montserrat bold. Body type should be rendered in Montserrat regular or Montserrat light.
 
 Other typefaces we commonly use are: [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic) (used in our logo), [Meriweather](https://fonts.google.com/specimen/Merriweather) (used for body type on our main website), [Chunk Five](https://www.fontsquirrel.com/fonts/chunkfive) (used for Privacy Badger), and [Lato](https://fonts.google.com/specimen/Lato) (used for one-pagers and other communications).
 
+**Note:** While we've linked to the Google font page here as a source, we host these fonts ourselves and do not serve fonts from Google servers. 
+
 ## PROJECT LOGOS
 EFF has a small ecosystem of websites and browser extensions that have standalone branding. [You can find a list of these projects and their corresponding logo files here](https://github.com/EFForg/design/blob/master/logos/logos.md). 
 
 ## WEB ELEMENTS
-We are slowly but surely working towards standardizing the UI of our one-off websites, action pages, and action pages. FOR MY OWN PURPOSES: what is the best way to link to specific elements from Schatzkin's's style guide? Does she want to make it public? Do code snippets make sense? Should this section link to both her style guide and a folder of .svg files, and 
+We are slowly but surely working towards standardizing the UI of our one-off websites, action pages, and action pages. Watch this space! 
 
 ## LOCALIZATION
 As a small design team, we're eventually creating parameters for localized designs of EFF projects, and are keen to receive community feedback to inform our approach. If you're interested in assisting us with localizing our open source software projects, see how you can get involved [here.](https://github.com/EFForg/design/blob/master/L10N.md)
