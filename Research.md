@@ -74,12 +74,12 @@ This [case study](https://www.eff.org/wp/certbot-usability-case-study-making-it-
 * If you have a user testing research proposal, open an issue on the EFForg/design repo.
 You should hear back from our team within two weeks, at which point we'll let you know if and when we can move forward with collaborating with you on your proposal.
 
-### Here are a few things we are looking for help with
+### Here Are a Few Things We Are Looking for Help With
 * Help us recruit user testers!
 * User testing proposals for mobile on any of our extensions
 * Accessibility-oriented user testing proposals
 
-### Here are a few things we are not looking to do at the moment
+### Here Are a Few Things We Are Not Looking to Do at the Moment
 * A/B testing
 * Very general tests or interviews (for example, on an entire browser extension)
 
