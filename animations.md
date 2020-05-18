@@ -11,7 +11,7 @@ We're still building our capacity on animations and are open to feedback!
 Here are some considerations we keep in mind.
 
 ## Considerations for Movement in an Interface
-this section could use love!
+This is a work in progress!
 
 ## EFF-y Principles for Animations 
 The following sections detail considerations for tutorial gifs, and for illustrating concepts. 
@@ -28,7 +28,7 @@ Use proprietary typefaces.
 #### DO: 
 Use free and open typefaces. You can check fonts.google.com.
 
-### **Privacy & security constraints:** 
+### **Privacy & Security Constraints:** 
 If you are making animations that include a working piece of software, such as for a demo or for a tutorial:
 #### DON’T: 
 Record private and/or sensitive information on your screen.
@@ -46,11 +46,12 @@ Forget about these considerations :)
 + Be mindful of pace: Make sure the speed is at a comfortable reading pace for others.
 + Show your animations to others for feedback! You can user test animations to check for comprehension, and whether things were at a comfortable pace.
 
-#### CONSIDER: Adding captions (depending on the content)!
+#### CONSIDER: Adding Captions (Depending on the Content)!
 If you’re editing a video with audio, please consider adding captions to the original video or gif version of it. Captions can be helpful for lots of situations:
-+ folks scanning their social media feeds without having to click in to hear, 
-+ with comedic effect, and 
-+ with folks with disabilities.
++ for folks with disabilities,
++ for folks scanning their social media feeds without having to click in to hear, 
++ and with emphasizing comedic or dramatic effects.
+
 
 ### General Principles for Animations
 + Consider making a few versions of the same animation at different sizes / qualities, keeping different screen sizes, internet connections, and vision impairments in mind.
@@ -64,4 +65,4 @@ If you’re editing a video with audio, please consider adding captions to the o
 + remove clutter
 
 ## Videos
-This section could use some love!
+This section is a work in progress!
