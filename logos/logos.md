@@ -23,7 +23,7 @@ SVG:
 For more design considerations for our logo, please refer to our [style guide](https://github.com/EFForg/design/blob/master/styleguide.md).
 
 ## Certbot
-EFF's [Certbot](certbot.eff.org) is a free, open source command line tool for automatically using Let’s Encrypt certificates on manually-administrated websites to enable HTTPS.
+EFF's [Certbot](https://certbot.eff.org) is a free, open source command line tool for automatically using Let’s Encrypt certificates on manually-administrated websites to enable HTTPS.
 
 ### Certbot lockup
 PNG:
@@ -40,7 +40,7 @@ SVG:
 <img src="eff-certbot-monogram.svg" alt="Certbot monogram" width="200"/>
 
 ## HTTPS Everywhere
-EFF's [HTTPS Everywhere](eff.org/https-everywhere), a free, open source browser extension that encrypts your communications with many major websites, making your browsing more secure.
+EFF's [HTTPS Everywhere](https://eff.org/https-everywhere), a free, open source browser extension that encrypts your communications with many major websites, making your browsing more secure.
 
 ### HTTPS Everywhere lockup
 PNG:
@@ -57,7 +57,7 @@ SVG:
 <img src="eff-httpseverywhere-monogram.svg" alt="HTTPS Everywhere monogram" width="200"/>
 
 ## Privacy Badger
-EFF's [Privacy Badger](eff.org/privacybadger), a free, open source browser extension that stops third party trackers from gathering information about who you are and what you're doing online.
+EFF's [Privacy Badger](https://eff.org/privacybadger), a free, open source browser extension that stops third party trackers from gathering information about who you are and what you're doing online.
 
 ### Privacy Badger lockup
 PNG:
@@ -74,7 +74,7 @@ SVG:
 <img src="eff-privacybadger-monogram.svg" alt="Privacy Badger monogram" width="200"/>
 
 ## StartTLS Everywhere
-EFF's [StartTLS Everywhere](starttls-everywhere.org) is a free, open source project to make email delivery more secure.
+EFF's [StartTLS Everywhere](https://starttls-everywhere.org) is a free, open source project to make email delivery more secure.
 
 ### StartTLS Everywhere lockup
 PNG:
