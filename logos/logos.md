@@ -78,7 +78,7 @@ The [Atlas of Surveillance](https://atlasofsurveillance.org) is a searchable dat
 
 ### Atlas of Surveillance lockup
 SVG:
-<img src="Atlas-logo-final.svg" alt="Atlas of Surveillance lockup" width="200"/>
+<img src="EFF-Atlas-logo-final.svg" alt="Atlas of Surveillance lockup" width="200"/>
 
 ## StartTLS Everywhere
 EFF's [StartTLS Everywhere](https://starttls-everywhere.org) is a free, open source project to make email delivery more secure.
