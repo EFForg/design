@@ -73,6 +73,13 @@ PNG:
 SVG:
 <img src="eff-privacybadger-monogram.svg" alt="Privacy Badger monogram" width="200"/>
 
+## Atlas of Surveillance
+The [Atlas of Surveillance](https://atlasofsurveillance.org) is a searchable database and map that reveals which technologies are used by domestic law enforcement agencies across the United States. Through a combination of crowdsourcing and data journalism, we are creating the largest-ever repository of information on which law enforcement agencies are using what surveillance technologies. 
+
+### Atlas of Surveillance lockup
+SVG:
+<img src="Atlas-logo-final.svg" alt="Atlas of Surveillance lockup" width="200"/>
+
 ## StartTLS Everywhere
 EFF's [StartTLS Everywhere](https://starttls-everywhere.org) is a free, open source project to make email delivery more secure.
 
