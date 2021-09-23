@@ -73,6 +73,20 @@ PNG:
 SVG:
 <img src="eff-privacybadger-monogram.svg" alt="Privacy Badger monogram" width="200"/>
 
+## Surveillance Self-Defense
+[Surveillance Self-Defense (SSD)](https://ssd.eff.org/) is EFF's online guide to defending yourself and your friends from surveillance by using secure technology and developing careful practices. In addition to tutorials for installing and using security-friendly software, SSD walks you through concepts like making a security plan, the importance of strong passwords, and protecting metadata.
+
+### Surveillance Self-Defense lockup
+SVG: 
+<img src="EFF-SSD-logo-final.svg" alt="SSD monogram" width="200"/>
+
+## Security Education Companion
+The [Security Education Companion (SEC)](https://sec.eff.org/) is a resource for people teaching digital security to their friends and neighbors.
+
+### Security Education Companion lockup
+SVG: 
+<img src="EFF-SEC-logo-final.svg" alt="SEC monogram" width="200"/>
+
 ## Atlas of Surveillance
 The [Atlas of Surveillance](https://atlasofsurveillance.org) is a searchable database and map that reveals which technologies are used by domestic law enforcement agencies across the United States. Through a combination of crowdsourcing and data journalism, we are creating the largest-ever repository of information on which law enforcement agencies are using what surveillance technologies. 
 
