@@ -94,26 +94,12 @@ The [Atlas of Surveillance](https://atlasofsurveillance.org) is a searchable dat
 SVG:
 <img src="EFF-Atlas-logo-final.svg" alt="Atlas of Surveillance lockup" width="200"/>
 
-## StartTLS Everywhere
-EFF's [StartTLS Everywhere](https://starttls-everywhere.org) is a free, open source project to make email delivery more secure.
+## Cover Your Tracks
+EFF's [Cover Your Tracks](https://coveryourtracks.eff.org/) allows users to test their browsers to see how well they're protected from online tracking and fingerprinting.
 
-### StartTLS Everywhere lockup
+### Cover Your Tracks lockup
 PNG:
-<img src="eff-starttlseverywhere-lockup.png" alt="StartTLS Everywhere lockup" width="200"/>
+<img src="eff-coveryourtracks-lockup.png" alt="Cover Your Tracks lockup" width="200"/>
 
 SVG:
-<img src="eff-starttlseverywhere-lockup.svg" alt="StartTLS Everywhere lockup" width="200"/>
-
-### StartTLS Everywhere monogram
-PNG:
-<img src="eff-starttlseverywhere-monogram.png" alt="StartTLS Everywhere monogram" width="200"/>
-
-SVG:
-<img src="eff-starttlseverywhere-monogram.svg" alt="StartTLS Everywhere monogram" width="200"/>
-
-### StartTLS Everywhere icon
-PNG:
-<img src="eff-starttlseverywhere-icon.png" alt="StartTLS Everywhere icon" width="200"/>
-
-SVG:
-<img src="eff-starttlseverywhere-icon.svg" alt="StartTLS Everywhere icon" width="200"/>
+<img src="eff-coveryourtracks-lockup.svg" alt="Cover Your Tracks lockup" width="200"/>
