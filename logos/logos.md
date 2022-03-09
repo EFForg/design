@@ -103,3 +103,7 @@ PNG:
 
 SVG:
 <img src="eff-coveryourtracks-lockup.svg" alt="Cover Your Tracks lockup" width="200"/>
+
+### Cover Your Tracks monogram
+SVG:
+<img src="eff-coveryourtracks-monogram.svg" alt="Cover Your Tracks monogram" width="200"/>
