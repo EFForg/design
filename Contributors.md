@@ -10,7 +10,6 @@ Most of our contributors work directly on improving the UI and functionality of 
   * [Privacy Badger](https://github.com/EFForg/privacybadger)
   * [HTTPS Everywhere](https://github.com/EFForg/https-everywhere)
   * [Certbot](https://github.com/certbot)
-  * [STARTTLS Everywhere scanner](https://github.com/EFForg/starttls-frontend)
  
 Normally you'll open a Pull Request for your changes in the product repo.
 
@@ -37,9 +36,7 @@ Here's a few issues where design contributors are needed:
 * [Privacy Badger UI issues](https://github.com/EFForg/privacybadger/labels/ui)
 * [Privacy Badger UX issues](https://github.com/EFForg/privacybadger/labels/ux)
 * [HTTPS Everywhere UI issues](https://github.com/EFForg/https-everywhere/labels/ui)
-* [START-TLS Design issues](https://github.com/EFForg/starttls-frontend/labels/design)
 * [Certbot website issues](https://github.com/certbot/website/issues)
-
 
 ## What to expect
 
