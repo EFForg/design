@@ -13,9 +13,9 @@ The advantage to having an adaptable, modular logo is that it simply *works* acr
 
 The Monogram is just three bold letters. It should be used in either red or black. Here it is on a white background.
 
-![EFF monogram black](logos/EFFbrandguide_BLACKmonogram.png)
+![EFF monogram black](logos/EFFbrandguide_BLACKmonogram.svg)
 
-![EFF monogram red](logos/EFFbrandguide_REDmonogram.png)
+![EFF monogram red](logos/EFFbrandguide_REDmonogram.svg)
 
 SVG files: 
 [Red monogram](logos/EFFbrandguide_BLACKmonogram.svg)
@@ -24,9 +24,9 @@ SVG files:
 ---
 #### EFF Logo (Lockup)
 
-![EFF Lockup black](logos/EFFbrandguide_BLACKlockup.png)
+![EFF Lockup black](logos/EFFbrandguide_BLACKlockup.svg)
 
-![EFF Lockup red](logos/EFFbrandguide_REDlockup.png)
+![EFF Lockup red](logos/EFFbrandguide_REDlockup.svg)
 
 SVG Files: 
 [Black lockup](logos/EFFbrandguide_BLACKlockup.svg)
@@ -38,7 +38,7 @@ As a rule, for non-decorative, functional aspects of our designs (e.g. buttons, 
 
 |                                                                        SWATCH                                                                       |   HEX   |       RGB      |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:--------------:|
-|   ![EFF_red](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23ec1e1e.png?token=AA5Z4FRKRXYKRF3F3I4P3P26OWEUS)  | #ec1e1e |  (236, 30, 30) |
+|   ![EFF_red](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23eb1414.png?token=AA5Z4FRKRXYKRF3F3I4P3P26OWEUS)  | #eb1414 |  (235, 20, 20) |
 |  ![dark red](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23b80101.png?token=AA5Z4FVAB2AZDGLVOFXCKPS6OWGKA)  | #b80101 |   (184, 1, 1)  |
 |    ![blue](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%234B6A88.png?token=AA5Z4FVX3XENK3G7KB553WK6OWGMG)    | #254B66 | (37, 75, 102)  |
 |  ![dark blue](https://raw.githubusercontent.com/EFForg/design/master/SWATCH%20PNGS/EFFbrandguide_%23254B66.png?token=AA5Z4FUDGBAU7DQFEL6LF3C6OWGMM) | #4B6A88 | (75, 106, 136) |
